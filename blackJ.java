@@ -8,7 +8,7 @@ public class blackJ{
       }
       
       for(int i=1;i<=3;i++){
-      System.out.println("Happy New Year.."+i)
+      System.out.println("Happy New Year.."+i);
       }
  }
 
